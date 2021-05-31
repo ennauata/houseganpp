@@ -1,0 +1,11 @@
+matplotlib==3.4.1
+networkx==2.5.1
+numpy==1.20.2
+opencv-python==4.5.1.48
+Pillow==8.2.0
+pytz==2021.1
+svgwrite==1.4.1
+torch==1.8.1
+torchaudio==0.8.1
+torchvision==0.9.1
+webcolors==1.11.1

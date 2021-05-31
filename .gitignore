@@ -1,0 +1,7 @@
+*.pth
+*.png
+*.npy
+*.pyc
+*cache*
+*.txt
+*.jpg
