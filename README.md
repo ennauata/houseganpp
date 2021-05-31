@@ -6,7 +6,7 @@ Code and instructions for our paper:
 
 Data
 ------
-![alt text](https://github.com/ennauata/houseganpp/blob/master/refs/sample.png "Sample")
+![alt text](https://github.com/ennauata/houseganpp/blob/main/refs/sample.png "Sample")
 We have used the [RPLAN dataset](http://staff.ustc.edu.cn/~fuxm/projects/DeepLayout/index.html), which offers 60k vector-graphics floorplans designed by professional architects. Qualitative and quantitative evaluations based on the three standard metrics (i.e., realism, diversity, and compatibility) in the literature demonstrate that the proposed system outperforms the current-state-of-the-art by a large margin.<br/>
 <br/>
 
