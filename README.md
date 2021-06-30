@@ -29,14 +29,14 @@ Coming Soon!
 
 Citation
 ------
+Please consider citing our work:
 ```
-@misc{nauata2021housegan,
-      title={House-GAN++: Generative Adversarial Layout Refinement Networks}, 
-      author={Nelson Nauata and Sepidehsadat Hosseini and Kai-Hung Chang and Hang Chu and Chin-Yi Cheng and Yasutaka Furukawa},
-      year={2021},
-      eprint={2103.02574},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{nauata2021house,
+  title={House-GAN++: Generative Adversarial Layout Refinement Network towards Intelligent Computational Agent for Professional Architects},
+  author={Nauata, Nelson and Hosseini, Sepidehsadat and Chang, Kai-Hung and Chu, Hang and Cheng, Chin-Yi and Furukawa, Yasutaka},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={13632--13641},
+  year={2021}
 }
 ```
 
