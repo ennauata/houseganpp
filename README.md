@@ -29,7 +29,7 @@ Coming Soon!
 
 Citation
 ------
-Please consider citing our work:
+Please consider citing our work.
 ```
 @inproceedings{nauata2021house,
   title={House-GAN++: Generative Adversarial Layout Refinement Network towards Intelligent Computational Agent for Professional Architects},
@@ -42,7 +42,7 @@ Please consider citing our work:
 
 Contact
 ------
-If you have any question, feel free to contact me at nnauata@sfu.ca
+If you have any question, feel free to contact me at nnauata@sfu.ca.
 
 
 Acknowledgement
