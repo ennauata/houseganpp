@@ -25,7 +25,9 @@ For running a pretrained model check out the following steps:
 
 Training models
 ------
-Coming Soon!
+- Download the raw [RPLAN dataset](http://staff.ustc.edu.cn/~fuxm/projects/DeepLayout/index.html).
+- Run [this script](https://github.com/sepidsh/Housegan-data-reader) for processing the dataset and extracting JSON files.
+- The extracted JSON files serves directly as input to our dataloader.
 
 Citation
 ------
